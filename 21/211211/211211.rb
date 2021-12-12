@@ -17,3 +17,4 @@ end
 
 n = 10
 A(n).sort.each{|i| p i}
+
