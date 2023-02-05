@@ -4,7 +4,7 @@
 
 2021年からの分のリポジトリにしようと思います。
 
-以前のものについては [こちら](https://github.com/manman4/blogger)
+以前のものについては [こちら](https://github.com/manman4/blogger_01)
 
 ## 注意点
 
