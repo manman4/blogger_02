@@ -12,7 +12,7 @@ def Rational_function(ary0, ary, n)
   a = ary0.clone
   i = 0
   while i < n
-    a[i + 1] += -(0..i).inject(0){|s, j| s + ary[1 + i - j] * a[j]}
+    a[i + 1] -= (0..i).inject(0){|s, j| s + ary[1 + i - j] * a[j]}
     i += 1
   end
   a
