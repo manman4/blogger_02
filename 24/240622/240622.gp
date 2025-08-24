@@ -1,1 +1,1 @@
-for(n=1, 10, print([n, Pi^n, contfrac(Pi^n)]))
+for(n=1, 10, print([n, Pi^n, contfrac(Pi^n)]));
